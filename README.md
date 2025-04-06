@@ -37,13 +37,10 @@ Whether you're looking to back up files, share them with others, or store confid
 ## Screenshots
 
 ### Login / SIgnup
-![Screenshot (18)](https://user-images.githubusercontent.com/30389552/79065779-88e56c00-7cd0-11ea-90ec-95c9a39b5304.png)
+![drive1](https://github.com/user-attachments/assets/f037d72e-3883-4315-9498-99bf096640a6)
 
 ### Dashboard
-![Screenshot (17)](https://user-images.githubusercontent.com/30389552/79065790-a1558680-7cd0-11ea-8211-f1e652631b72.png)
-
-### Upload Files
-![Screenshot (20)](https://user-images.githubusercontent.com/30389552/79065842-0dd08580-7cd1-11ea-9232-ac7a2349a4f3.png)
+![drive2](https://github.com/user-attachments/assets/4956b1c1-2aed-440d-b2d7-6f2b18c7c16d)
 
 ### Vault
-![Screenshot (19)](https://user-images.githubusercontent.com/30389552/79065849-1a54de00-7cd1-11ea-8e38-bddc42591348.png)
+![drive3](https://github.com/user-attachments/assets/06b109b1-7e0a-433f-835d-26c1daf797c7)
